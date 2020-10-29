@@ -11,3 +11,5 @@ signal
 
 must have
 must have
+
+git tag off
